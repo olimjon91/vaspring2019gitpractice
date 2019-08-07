@@ -1,8 +1,8 @@
 public class AppTest {
     public static void main(String[] args) {
 
-        System.out.println("Hello world 2");
+        System.out.println("Hello world 100");
 
-        System.out.println("Hello world 0");
+        System.out.println("Hello world 500");
     }
 }
