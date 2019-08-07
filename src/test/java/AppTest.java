@@ -4,8 +4,7 @@ public class AppTest {
         System.out.println("Hello world");
         System.out.println("Fetched");
          System.out.println("Hello world");
-        System.out.println("Hello world");
-        System.out.println("Fetched")
+       
 
       }
 }
